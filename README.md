@@ -2,5 +2,6 @@
 ---
 Learning courses that I took to lear about C language.
 
-Courses taken
+Courses taken:
+
 2025.08 - 42 Piscine - shell and C language introduction - duration: one month
